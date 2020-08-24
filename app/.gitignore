@@ -1,1 +1,21 @@
-/build
+#Build application files
+*.apk
+*.ap_
+
+#Files gor the ART/Dalvik VM
+*.dex
+
+#Java class files
+*.class
+
+#Generated files
+bin/
+gen/
+out/
+
+#Gradle files
+.gradle/
+build/
+
+#Local configutation file (sdk path etc)
+local.properties
