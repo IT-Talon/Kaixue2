@@ -19,5 +19,9 @@ class MainActivity : AppCompatActivity() {
         print(a + b)
 
     }
+
+    fun test(){
+        print("newBr test!!")
+    }
 }
 
