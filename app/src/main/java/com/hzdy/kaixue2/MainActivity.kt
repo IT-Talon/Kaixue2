@@ -21,15 +21,5 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun master(){
-        print("newBr test!!")
-    }
-    fun test(){
-        print("newBr test!!")
-    }
-
-    fun dev(){
-        print("dev branch!!")
-    }
 }
 
