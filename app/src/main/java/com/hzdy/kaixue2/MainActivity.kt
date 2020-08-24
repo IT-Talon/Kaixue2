@@ -27,5 +27,9 @@ class MainActivity : AppCompatActivity() {
     fun test(){
         print("newBr test!!")
     }
+
+    fun dev(){
+        print("dev branch!!")
+    }
 }
 
