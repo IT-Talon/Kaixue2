@@ -21,7 +21,11 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun master(){
+    fun master() {
+    }
+
+
+    fun dev() {
 
     }
 }
