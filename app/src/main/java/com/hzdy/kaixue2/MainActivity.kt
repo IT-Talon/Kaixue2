@@ -21,5 +21,8 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    fun dev(){
+
+    }
 }
 
